@@ -39,8 +39,6 @@ local Bagou = {
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Bag0u&label=VISITORS&color=8b0000&style=for-the-badge" />
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8b0000,100:0d0d0d&height=120&section=footer" width="100%" />
 
 </div>****
