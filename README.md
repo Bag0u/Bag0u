@@ -28,7 +28,6 @@ local Bagou = {
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bag0u&show_icons=true&include_all_commits=true&bg_color=0d0d0d&title_color=ff2e3b&icon_color=ff2e3b&text_color=e6e6e6&border_color=3a0a0a&rank_icon=github" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bag0u&background=0d0d0d&border=3a0a0a&stroke=3a0a0a&ring=ff2e3b&fire=ff2e3b&currStreakLabel=ff2e3b&sideLabels=e6e6e6&currStreakNum=ffffff&sideNums=ffffff&dates=8b8b8b" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bag0u&bg_color=0d0d0d&color=e6e6e6&line=ff2e3b&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="100%" />
